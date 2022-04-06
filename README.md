@@ -23,7 +23,7 @@ Tom, a Colorado Board of Elections employee, has asked for assistance with an au
 
 - The **Total Votes** cast were 369,711.
 
-- This was calculated using an f' string to define and print our variable "election results"
+This was calculated using an f' string to define and print our variable "election results"
 
 - The Total Vote count of  369,711 was broken down by the counties in their precinct:
 
@@ -39,7 +39,7 @@ Tom, a Colorado Board of Elections employee, has asked for assistance with an au
     With the largest County Turnout (number of votes) seen in Denver
     
   
-- The candidates were obtained by using the print function which printed every time the candidates name was present in the file. To get it to 1 occurrence for each candidate, we then utilized an 'if' statment to iterate through the data and print every name one time only. 
+The candidates were obtained by using the print function which printed every time the candidates name was present in the file. To get it to 1 occurrence for each candidate, we then utilized an 'if' statment to iterate through the data and print every name one time only. 
 
 
 - The breakdown of the number of votes and the percentage of the total votes each candidate received:
@@ -51,7 +51,7 @@ Tom, a Colorado Board of Elections employee, has asked for assistance with an au
      **Raymon Anthony Doane** received 3.1% of the votes with a total vote count of 11,606
      
 
-- These figures were obtained by first setting count for each candidate to zero and every occurrence of the candidates name was tallied by adding '1' each time. The percentage was then found by using an equation that divided the candidates votes by the total number of votes and multiplying by 100.
+These figures were obtained by first setting count for each candidate to zero and every occurrence of the candidates name was tallied by adding '1' each time. The percentage was then found by using an equation that divided the candidates votes by the total number of votes and multiplying by 100.
  
 
 - The winning candidate was Diana DeGette with 73.8% of votes with a total is 272,892
