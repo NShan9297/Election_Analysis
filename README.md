@@ -30,7 +30,9 @@ The **Total Votes** were 369,711. This was calulated using an f' string to defin
 
 **Raymon Anthony Doane** received 3.1% of the votes with a total vote count of 11,606
 
-These figutres were obtained by first setting count for each candidate to zero and every occurence of the candidates name was tallied by adding '1' each time. The percentage was then found by using an equation that 
+These figutres were obtained by first setting count for each candidate to zero and every occurence of the candidates name was tallied by adding '1' each time. The percentage was then found by using an equation that divided the candidates votes by the total number of votes and multilpying by 100.
+
+
 
 
 # **Challenge Overview** #
