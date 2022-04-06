@@ -36,7 +36,9 @@ Tom, a Colorado Board of Elections employee, has asked for assistance with an au
     Arapahoe: 6.7% (24,801 total votes)
 
     With the largest County Turnout (number of votes) seen in Denver
+    
   
+- The candidates were obtained by using the print function which printed every time the candidates name was present in the file. To get it to 1 occurrence for each candidate, we then utilized an 'if' statment to iterate through the data and print every name one time only. 
 
 
 - The breakdown of the number of votes and the percentage of the total votes each candidate received:
@@ -46,8 +48,9 @@ Tom, a Colorado Board of Elections employee, has asked for assistance with an au
      **Diana DeGette** received 73.8% of the votes with a total vote count of 272,892
 
      **Raymon Anthony Doane** received 3.1% of the votes with a total vote count of 11,606
+     
 
- 
+ These figures were obtained by first setting count for each candidate to zero and every occurrence of the candidates name was tallied by adding '1' each time. The percentage was then found by using an equation that divided the candidates votes by the total number of votes and multiplying by 100.
  
 
 - The winning candidate was Diana DeGette with 73.8% of votes with a total is 272,892
@@ -60,6 +63,7 @@ The script used for this election audit can be used for any election! We know th
 
 
 # **Challenge Overview** #
+
 
 # **Challenge Summary** #
 
