@@ -29,11 +29,11 @@ Confirm the winner based on the popular vote
 
     **County Votes:**
 
-    Jefferson: 10.5% (38,855)
+    Jefferson: 10.5% (38,855 total votes)
 
-    Denver: 82.8% (306,055)
+    Denver: 82.8% (306,055 total votes)
 
-    Arapahoe: 6.7% (24,801)
+    Arapahoe: 6.7% (24,801 total votes)
 
     With the largest County Turnout (number of votes) seen in Denver
   
