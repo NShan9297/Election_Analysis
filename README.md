@@ -37,7 +37,7 @@ Confirm the winner based on the popular vote
 
 
 - The breakdown of the number of votes and the percentage of the total votes each candidate received:
--  
+
   **Charles Casper Stockham** recieved 23.0% of the votes with a total vote count of 85,213
 
   **Diana DeGette** received 73.8% of the votes with a total vote count of 272,892
