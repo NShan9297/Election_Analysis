@@ -25,7 +25,7 @@ Confirm the winner based on the popular vote
 
 - The Total Vote count of  369,711 was broken down by the counties in their precinct:
 
-  County Votes:
+  **County Votes:**
   
   Jefferson: 10.5% (38,855)
   
@@ -33,10 +33,8 @@ Confirm the winner based on the popular vote
   
   Arapahoe: 6.7% (24,801)
 
-  With the largest County Turnout seen in Denver
+  With the largest County Turnout (number of votes) seen in Denver
 
-
-- Which county had the largest number of votes?
 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
