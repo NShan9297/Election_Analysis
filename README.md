@@ -23,7 +23,9 @@ Confirm the winner based on the popular vote
 
 - The **Total Votes** cast were 369,711.
 
+
 - The Total Vote count of  369,711 was broken down by the counties in their precinct:
+
 
   **County Votes:**
   
@@ -34,6 +36,7 @@ Confirm the winner based on the popular vote
   Arapahoe: 6.7% (24,801)
 
   With the largest County Turnout (number of votes) seen in Denver
+  
 
 
 - The breakdown of the number of votes and the percentage of the total votes each candidate received:
@@ -45,8 +48,11 @@ Confirm the winner based on the popular vote
   **Raymon Anthony Doane** received 3.1% of the votes with a total vote count of 11,606
 
  
+ 
 
-- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+- The winning candidate was Diana DeGette with 73.8% of votes with a total is 272,892
+
+
 
 # **Summary** #
 
