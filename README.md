@@ -19,6 +19,20 @@ Confirm the winner based on the popular vote
 
 # **Summary** #
 
+The **Candidates** were: Charles Casper Stockham, Dianna DeGetter, and Raymon Anthony Doane. This was achieved by using the 
+print function which printed every time the candidates name was present in the file. To get it to 1 occurence for each candidate, we then utilized an 'if' statment to iterate through the data and print every name one time only. 
+
+The **Total Votes** were 369,711. This was calulated using an f' string to define and print our variable "election results"
+
+**Charles Casper Stockham** recieved 23.0% of the votes with a total vote count of 85,213
+
+**Diana DeGette** received 73.8% of the votes with a total vote count of 272,892
+
+**Raymon Anthony Doane** received 3.1% of the votes with a total vote count of 11,606
+
+These figutres were obtained by first setting count for each candidate to zero and every occurence of the candidates name was tallied by adding '1' each time. The percentage was then found by using an equation that 
+
+
 # **Challenge Overview** #
 
 # **Challenge Summary** #
