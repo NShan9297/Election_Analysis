@@ -27,25 +27,25 @@ Confirm the winner based on the popular vote
 - The Total Vote count of  369,711 was broken down by the counties in their precinct:
 
 
-  **County Votes:**
-  
-  Jefferson: 10.5% (38,855)
-  
-  Denver: 82.8% (306,055)
-  
-  Arapahoe: 6.7% (24,801)
+    **County Votes:**
 
-  With the largest County Turnout (number of votes) seen in Denver
+    Jefferson: 10.5% (38,855)
+
+    Denver: 82.8% (306,055)
+
+    Arapahoe: 6.7% (24,801)
+
+    With the largest County Turnout (number of votes) seen in Denver
   
 
 
 - The breakdown of the number of votes and the percentage of the total votes each candidate received:
 
-  **Charles Casper Stockham** recieved 23.0% of the votes with a total vote count of 85,213
+     **Charles Casper Stockham** recieved 23.0% of the votes with a total vote count of 85,213
 
-  **Diana DeGette** received 73.8% of the votes with a total vote count of 272,892
+     **Diana DeGette** received 73.8% of the votes with a total vote count of 272,892
 
-  **Raymon Anthony Doane** received 3.1% of the votes with a total vote count of 11,606
+     **Raymon Anthony Doane** received 3.1% of the votes with a total vote count of 11,606
 
  
  
