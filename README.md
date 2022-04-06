@@ -66,3 +66,4 @@ These figures were obtained by first setting count for each candidate to zero an
 
 The script used for this election audit can be used for any election! We know this because the same general formulas were used to calculate the county and the candidate results. This proves the versatility and reliability of the script. This was achieved by some simple modifications of defined variables, i.e. candidate votes vs. county votes. Another modification that could be made to this script is the number of variables being calculated in one script. Providing more versatility. All percentages, total votes, and winning county/candidates were all performed on the same page. The script allows for all items to be calculated by the computer in one page of script. This will diminish the likelihood of human error as well as provide convenience. 
 
+![versatile_code](https://github.com/NShan9297/Election_Analysis/blob/main/Resources/Versatile_code.png)
