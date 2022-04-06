@@ -41,6 +41,8 @@ This was calculated using an f' string to define and print our variable "electio
   
 The candidates were obtained by using the print function which printed every time the candidates name was present in the file. To get it to 1 occurrence for each candidate, we then utilized an 'if' statment to iterate through the data and print every name one time only. 
 
+![candidate_info](https://github.com/NShan9297/Election_Analysis/blob/main/Resources/Candidate_Info.png)
+
 
 - The breakdown of the number of votes and the percentage of the total votes each candidate received:
 
