@@ -23,6 +23,7 @@ Tom, a Colorado Board of Elections employee, has asked for assistance with an au
 
 - The **Total Votes** cast were 369,711.
 
+- This was calculated using an f' string to define and print our variable "election results"
 
 - The Total Vote count of  369,711 was broken down by the counties in their precinct:
 
