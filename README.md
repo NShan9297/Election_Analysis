@@ -56,6 +56,8 @@ These figures were obtained by first setting count for each candidate to zero an
 
 - The winning candidate was Diana DeGette with 73.8% of votes with a total is 272,892
 
+![Printed to Command](https://github.com/NShan9297/Election_Analysis/blob/main/Resources/Printed%20to%20Command.png)
+
 
 
 # **Election-Audit Summary** #
