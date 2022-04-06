@@ -54,9 +54,7 @@ Tom, a Colorado Board of Elections employee, has asked for assistance with an au
 
 
 
-# **Summary** #
-
-
+# **Election-Audit Summary** #
 
 
 
