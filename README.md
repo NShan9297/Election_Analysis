@@ -50,7 +50,7 @@ Tom, a Colorado Board of Elections employee, has asked for assistance with an au
      **Raymon Anthony Doane** received 3.1% of the votes with a total vote count of 11,606
      
 
- These figures were obtained by first setting count for each candidate to zero and every occurrence of the candidates name was tallied by adding '1' each time. The percentage was then found by using an equation that divided the candidates votes by the total number of votes and multiplying by 100.
+- These figures were obtained by first setting count for each candidate to zero and every occurrence of the candidates name was tallied by adding '1' each time. The percentage was then found by using an equation that divided the candidates votes by the total number of votes and multiplying by 100.
  
 
 - The winning candidate was Diana DeGette with 73.8% of votes with a total is 272,892
