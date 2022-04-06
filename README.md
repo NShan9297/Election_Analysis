@@ -36,7 +36,15 @@ Confirm the winner based on the popular vote
   With the largest County Turnout (number of votes) seen in Denver
 
 
-- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+- The breakdown of the number of votes and the percentage of the total votes each candidate received:
+-  
+  **Charles Casper Stockham** recieved 23.0% of the votes with a total vote count of 85,213
+
+  **Diana DeGette** received 73.8% of the votes with a total vote count of 272,892
+
+  **Raymon Anthony Doane** received 3.1% of the votes with a total vote count of 11,606
+
+ 
 
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
