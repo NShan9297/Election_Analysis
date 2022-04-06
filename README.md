@@ -24,7 +24,7 @@ Confirm the winner based on the popular vote
 - The **Total Votes** cast were 369,711.
 
 - The Total Vote count of  369,711 was broken down by the counties in their precinct:
-- 
+
   County Votes:
   
   Jefferson: 10.5% (38,855)
